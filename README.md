@@ -1,7 +1,7 @@
 # 12-Pieces
 
 
-![](screenshot.png)
+![](screenshot_win32.png)
 
 ## Prequisite
 There is no external library needed as it is made from scratch.
