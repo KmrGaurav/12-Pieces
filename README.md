@@ -1,5 +1,5 @@
 # 12-Pieces
-
+12 Pieces is a 2 player traditional offline game for Windows and Linux operating system. It is written using Windows Native APIs i.e. Win32 and Linux X Window System APIs i.e. X11 in C++ language.
 
 ![](screenshot_win32.png)
 
